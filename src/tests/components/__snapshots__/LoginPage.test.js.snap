@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render LoginPage corectly 1`] = `
+<div>
+  <form
+    onSubmit={[Function]}
+  >
+    <div>
+      <label>
+        User
+      </label>
+      <input
+        placeholder="User Id"
+        type="text"
+      />
+    </div>
+    <div>
+      <label>
+        Password
+      </label>
+      <input
+        placeholder="Password"
+        type="password"
+      />
+    </div>
+    <div>
+      <button>
+        Login
+      </button>
+    </div>
+  </form>
+</div>
+`;
